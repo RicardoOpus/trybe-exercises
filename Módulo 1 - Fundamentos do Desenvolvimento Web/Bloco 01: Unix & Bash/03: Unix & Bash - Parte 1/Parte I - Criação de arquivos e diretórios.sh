@@ -1,6 +1,7 @@
 #!/bin/bash 
 
 echo -e "\nParte I - Criação de arquivos e diretórios"
+echo -e "\nOBS: O diretório onde o Script irá rodar presica estar vazio."
 echo -e "\n1 - Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado unix_tests e navegue até ele."
 
 echo -e "\nRespota: mkdir unix_tests"
@@ -112,4 +113,4 @@ echo -e "\nRespota: rm *.txt"
 rm *.txt
 
 echo -e "\n"
-echo -e "\nFim do Exercício"
+echo -e "\n============== Fim do exercício =============="
