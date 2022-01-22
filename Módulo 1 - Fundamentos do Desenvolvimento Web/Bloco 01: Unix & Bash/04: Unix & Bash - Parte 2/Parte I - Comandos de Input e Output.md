@@ -1,14 +1,21 @@
 # Parte I - Comandos de Input e Output
 
 ### - Pré-requisitos
+```
 mkdir unix_tests
+
 curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries" ;
+```bash
 
 ## 1 - Navegue até a pasta unix_tests ;
+```
 cd unix_tests
+```
 
 ## 2 - Crie um arquivo texto pelo terminal com o nome skills2.txt e adicione os valores Internet , Unix e Bash , um em cada linha.
+```
 echo "Internet" > skills2.txt ; echo "Unix" >> skills2.txt ; echo "Bash" >> skills2.txt
+```
 
 ## 3 - Adicione mais 5 itens à sua lista de skills e depois imprima a lista ordenada no terminal. 🤓
 echo "Phyton" >> skills2.txt ; echo "JavaScript" >> skills2.txt ; echo "PHP" >> skills2.txt ; echo "HTML" >> skills2.txt ; echo "CSS" >> skills2.txt
