@@ -66,5 +66,5 @@ bg %3
 9. Termine a execução de todos os processos sleep (mate os processos) .
 
 ```bash
-kill %1 %2
+killall sleep
 ```
