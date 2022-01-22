@@ -48,21 +48,21 @@ grep br phrases2.txt | wc -l
 ```
 
 ## 8 - Conte o número de linhas que não contêm as letras br .
-```console
+```shell
 grep -v br phrases2.txt | wc -l
 ```
 
 ## 9 - Adicione dois nomes de países ao final do arquivo phrases2.txt .
-```console
+```sh
 echo "Georgia" >> phrases2.txt ; echo "Laos" >> phrases2.txt
 ```
 
 ## 10 - Crie um novo arquivo chamado bunch_of_things.txt com os conteúdos dos arquivos phrases2.txt e countries.txt
-```console
+```bash
 cat phrases2.txt countries.txt > bunch_of_things.txt
 ```
 
 ## 11 - Ordene o arquivo bunch_of_things.txt
-```console
+```zsh
 sort -o bunch_of_things.txt bunch_of_things.txt
 ```
