@@ -4,18 +4,17 @@ Nos exercícios de hoje, você vai fazer quinze pequenos programas. Todos trabal
 
 bb
 
-## 1 - Faça cinco programas, um para cada operação aritmética básica. Seu programa deve ter duas constantes, a e b , definidas no começo com os valores que serão operados. Faça programas para:
+**1 - Faça cinco programas, um para cada operação aritmética básica. Seu programa deve ter duas constantes, a e b , definidas no começo com os valores que serão operados. Faça programas para:
 
-Markup :
-  - Adição (a + b)
+- Adição (a + b)
 
-  - Subtração (a - b)
+- Subtração (a - b)
 
-  - Multiplicação (a * b)
+- Multiplicação (a * b)
 
-  - Divisão (a / b)
+- Divisão (a / b)
 
-  - Módulo (a % b)
+- Módulo (a % b)
 
 *Dica: Neste link você encontra mais detalhes sobre operadores matemáticos 😉
 
