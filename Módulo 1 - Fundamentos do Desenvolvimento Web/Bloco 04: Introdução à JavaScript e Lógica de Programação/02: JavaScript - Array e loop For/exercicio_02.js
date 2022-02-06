@@ -19,3 +19,13 @@ for (let somas of numbers2) {
   resultSum2 = somas + resultSum2;
 }
 console.log(resultSum2);
+
+//outra solução:let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+
+let result = 0;
+
+for (let index = 0; index < numbers.length; index += 1) {
+  result += numbers[index];
+}
+
+console.log(result);
