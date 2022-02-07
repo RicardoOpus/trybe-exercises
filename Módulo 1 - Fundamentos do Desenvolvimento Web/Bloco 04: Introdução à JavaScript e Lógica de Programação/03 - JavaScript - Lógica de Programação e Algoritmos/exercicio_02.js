@@ -10,3 +10,9 @@ for (let i = 0; i < palavra.length; i += 1) {
   revertida += palavra[palavra.length - 1 - i];
 }
 console.log(revertida);
+
+
+// Outra solução:
+
+let palavra = 'tryber';
+console.log(palavra.split('').reverse().join(''));
