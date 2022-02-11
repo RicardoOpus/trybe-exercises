@@ -2,7 +2,7 @@ document.querySelector("#header-container").style.backgroundColor = "#00B069";
 
 document.querySelector("#container").style.backgroundColor = "#F1F1F1";
 
-document.getElementsByClassName("emergency-tasks")[0].style.backgroundColor = "#FF9F84"
+document.getElementsByClassName("emergency-tasks")[0].style.backgroundColor = "#FF9F84";
 
 document.querySelectorAll(".no-emergency-tasks")[0].style.backgroundColor = "#F9DB5E";
 
