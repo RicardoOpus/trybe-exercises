@@ -1,0 +1,28 @@
+.escolhas{
+  background-color: rgb(172, 172, 172);
+  color: lightgray;
+}
+.cores1 {
+  background-color: white;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  margin: 10px ;
+}
+.cores2 {
+  background-color: black;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  margin: 10px ;
+}
+.cores3 {
+  background-color: wheat;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  margin: 10px 
+}
